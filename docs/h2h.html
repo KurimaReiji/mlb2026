@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:url" content="https://kurimareiji.github.io/mlb2026/h2h.html" />
+  <meta property="og:title" content="MLB Head-to-Head Results" />
+  <meta property="og:image" content="https://kurimareiji.github.io/mlb2026/h2h-og.png" />
+  <meta property="og:description" content="The colored dots indicate individual game outcomes (e.g., larger dots for wins, smaller dots for losses). The numbers associated with each arc represent the team's head-to-head win-loss record against opponents or divisions." />
+  <meta content="summary_large_image" name="twitter:card">
+  <meta name="twitter:image" content="https://kurimareiji.github.io/mlb2026/h2h-og.png">
+  <link rel="stylesheet" href="css/mlb2026-colors.css?v=0">
+  <title>MLB Head-to-Head Results</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Mono&display=swap');
+  </style>
+  <style>
+    :root {
+      --chart-height: 100svh;
+      --grid-template: 100svh 1fr / auto;
+    }
+
+    @media (orientation: portrait) {
+      :root {
+        --chart-height: 100vw;
+        --grid-template: 100vw 1fr / auto;
+      }
+
+    }
+
+    @media (orientation: landscape) {
+      :root {
+        --chart-height: 100svh;
+        --grid-template: auto / 100svh minmax(min-content, 39em);
+      }
+
+      body {
+        height: var(--chart-height, 100svh);
+      }
+
+      .container {
+        height: var(--chart-height, 100svh);
+      }
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      display: grid;
+      grid-template: var(--grid-template);
+    }
+
+    .selectors {
+      display: grid;
+      place-content: center stretch;
+    }
+
+    record-chart {
+      display: block;
+      height: var(--chart-height, 100svh);
+    }
+
+    .hide {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <record-chart></record-chart>
+    <div class="selectors">
+      <series-results></series-results>
+      <season-selector></season-selector>
+      <team-selector></team-selector>
+      <download-svg></download-svg>
+    </div>
+  </div>
+  <script type="importmap">
+    {
+      "imports": {
+        "utils.js": "./js/utils.js?v=0",
+        "record-chart.js": "./js/record-chart.js?v=0",
+        "season-selector.js": "./js/season-selector.js?v=0",
+        "series-results.js": "./js/series-results.js",
+        "team-selector.js": "./js/team-selector.js",
+        "download-svg.js": "./js/download-svg.js?v=0",
+        "logos.js": "./js/mlb-logos.js?v=0"
+      }
+    }
+  </script>
+  <script type="module">
+    import { RecordChart } from "record-chart.js";
+    import { SeasonSelector } from "season-selector.js";
+    import { SeriesResults } from "series-results.js";
+    import { DownloadSvg } from "download-svg.js";
+    import { TeamSelector, teamsAvailable } from "team-selector.js";
+
+    const route = (href) => {
+      if (href === window.location.href) return;
+      window.history.pushState({}, null, href);
+      locationHandler();
+    }
+
+    const locationHandler = () => {
+      const url = new URL(update_params({}));
+      const season = url.searchParams.get("season");
+      const team = url.searchParams.get("team");
+      console.log(`ROUTED: ${season} ${team}`);
+      document.dispatchEvent(new CustomEvent("ROUTED", { detail: { season, clubName: team } }));
+    }
+
+    window.addEventListener("popstate", (_) => { locationHandler(); });
+
+    function update_params({ season, team }) {
+      const url = new URL(window.location);
+      const params = new URLSearchParams({
+        season: season || url.searchParams.get("season") || "2026",
+        team: team || url.searchParams.get("team") || "Dodgers",
+      });
+      if (!teamsAvailable.includes(params.get("team"))) {
+        params.set("team", "Dodgers");
+      } else {
+        if (["2018", "2019", "2020", "2021"].includes(params.get("season")) && params.get("team") === "Guardians") {
+          params.set("team", "Indians");
+        } else if (!["2018", "2019", "2020", "2021"].includes(params.get("season")) && params.get("team") === "Indians") {
+          params.set("team", "Guardians");
+        }
+      }
+      return `${url.origin}/mlb2026/h2h.html?${params}`;
+    }
+
+    document.addEventListener("SeasonDataLoaded", ({ detail }) => {
+      const url = update_params({ season: detail.season })
+      route(url);
+    });
+
+    document.addEventListener("TeamSelected", ({ detail }) => {
+      const url = update_params({ team: detail.targetTeam.clubName })
+      route(url);
+    });
+
+    locationHandler(); 
+  </script>
+</body>
+
+</html>
