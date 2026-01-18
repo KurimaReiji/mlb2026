@@ -132,7 +132,7 @@ class DownloadSvg extends HTMLElement {
         --team-color: var(--rockies-black);
       }
       [data-team="Dodgers"]{
-        --team-color: var(--dodger-blue);
+        --team-color: var(--dodgers-blue);
       }
       [data-team="Padres"]{
         --team-color: var(--padres-brown);
