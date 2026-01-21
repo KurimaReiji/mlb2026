@@ -144,6 +144,23 @@
       route(url);
     });
 
+    document.addEventListener("ROUTED", () => {
+      const logObj = {
+        timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+        userAgent: navigator.userAgent,
+        screenWidth: window.screen.width,
+        screenHeight: window.screen.height,
+        devicePixelRatio: window.devicePixelRatio,
+        href: location.href,
+      };
+
+      fetch('https://kurimable.sakura.ne.jp/logger/head2head.php', {
+        method: 'POST',
+        mode: 'cors',
+        body: JSON.stringify(logObj),
+      })
+    });
+
     locationHandler(); 
   </script>
 </body>
