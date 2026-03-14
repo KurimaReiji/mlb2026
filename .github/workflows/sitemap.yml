@@ -11,9 +11,11 @@ jobs:
     steps:
       - name: Checkout the repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 更新日時（lastmod）を正確に取得するために必要
 
       - name: Generate XML sitemap
-        uses: cicirello/sitemap-generator@v3
+        uses: cicirello/generate-sitemap@v1
         with:
           base-url-path: https://kurimareiji.github.io/mlb2026/
 
