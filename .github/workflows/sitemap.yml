@@ -1,0 +1,26 @@
+name: Generate sitemap
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sitemap_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+
+      - name: Generate XML sitemap
+        uses: cicirello/sitemap-generator@v3
+        with:
+          base-url-path: https://kurimareiji.github.io/mlb2026/
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Automated sitemap update" || exit 0
+          git push
