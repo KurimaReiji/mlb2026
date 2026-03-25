@@ -130,13 +130,12 @@ customElements.define("season-selector", SeasonSelector);
 export { SeasonSelector };
 
 async function get_today(season) {
-  if (Number(season) !== 92026) return Promise.resolve([]);
+  if (Number(season) !== 2026) return Promise.resolve([]);
   const url = 'https://statsapi.mlb.com/api/v1/schedule?sportId=1';
   return fetch(url, { cache: "no-cache" })
     .then((res) => res.json())
     .then((data) => {
       if (data.dates.length === 0) return [];
-      return [];
       return data
         .dates[0].games
         .filter((g) => g.seriesDescription === "Regular Season")

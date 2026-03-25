@@ -11,8 +11,9 @@
   <meta content="summary_large_image" name="twitter:card">
   <meta name="twitter:image" content="https://kurimareiji.github.io/mlb2026/h2h-og.png">
   <meta name="google-site-verification" content="CTeHYzDbwN9kOCUd612AFVQR9p_K3DTR57R2j1N8j-s" />
+  <link rel="canonical" href="https://kurimareiji.github.io/mlb2026/h2h.html" />
   <link rel="stylesheet" href="css/mlb2026-colors.css?v=0">
-  <title>MLB Head-to-Head Results</title>
+  <title>MLB2026 Head-to-Head Results</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Mono&display=swap');
   </style>
@@ -111,6 +112,9 @@
       const url = new URL(update_params({}));
       const season = url.searchParams.get("season");
       const team = url.searchParams.get("team");
+      const canoninal = document.querySelector('head > link[rel="canonical"]');
+      canoninal.href = `https://kurimareiji.github.io/mlb2026/h2h.html?season=${season}&team=${team}`;
+      document.title = `${team} Head-to-Head Results | MLB2026`;
       console.log(`ROUTED: ${season} ${team}`);
       document.dispatchEvent(new CustomEvent("ROUTED", { detail: { season, clubName: team } }));
     }
