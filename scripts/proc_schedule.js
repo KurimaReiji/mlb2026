@@ -8,8 +8,8 @@ const season = process.argv.slice(2).at(0) || "2026";
 
 const infile = import.meta.resolve(`${__dirname}/../Schedule/mlb-schedule-${season}.json`);
 const inputs = JSON.parse(await readFile(fileURLToPath(infile), "utf8"));
-const teamsFile = import.meta.resolve(`${__dirname}/../Teams/mlb-teams-${season}.json`);
-const teams = JSON.parse(await readFile(fileURLToPath(teamsFile, "utf8")));
+const teamsFile = import.meta.resolve(`${__dirname}/../docs/mlb-games-${season}.json`);
+const teams = JSON.parse(await readFile(fileURLToPath(teamsFile, "utf8"))).teams;
 
 const games = inputs
   .map((g) => {
