@@ -744,7 +744,7 @@
           "chartPos": 21
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "description": "Dodgers Home Opener",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
@@ -781,15 +781,19 @@
       "season": "2026",
       "gameDate": "2026-03-27T20:35:00Z",
       "officialDate": "2026-03-27",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Yankees",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 41
         },
         "home": {
           "team": "Giants",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 50
         }
@@ -803,15 +807,19 @@
       "season": "2026",
       "gameDate": "2026-03-27T23:07:00Z",
       "officialDate": "2026-03-27",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Athletics",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 9
         },
         "home": {
           "team": "Blue Jays",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 27
         }
@@ -826,15 +834,19 @@
       "season": "2026",
       "gameDate": "2026-03-27T23:10:00Z",
       "officialDate": "2026-03-27",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rockies",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 3
         },
         "home": {
           "team": "Marlins",
+          "score": 2,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 29
         }
@@ -849,15 +861,19 @@
       "season": "2026",
       "gameDate": "2026-03-27T23:15:00Z",
       "officialDate": "2026-03-27",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Royals",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 48
         },
         "home": {
           "team": "Braves",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 45
         }
@@ -872,15 +888,19 @@
       "season": "2026",
       "gameDate": "2026-03-28T00:15:00Z",
       "officialDate": "2026-03-27",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Angels",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 25
         },
         "home": {
           "team": "Astros",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 25
         }
@@ -894,15 +914,19 @@
       "season": "2026",
       "gameDate": "2026-03-28T01:40:00Z",
       "officialDate": "2026-03-27",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Tigers",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 40
         },
         "home": {
           "team": "Padres",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 45
         }
@@ -916,15 +940,19 @@
       "season": "2026",
       "gameDate": "2026-03-28T01:45:00Z",
       "officialDate": "2026-03-27",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Guardians",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 33
         },
         "home": {
           "team": "Mariners",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 13
         }
@@ -938,20 +966,24 @@
       "season": "2026",
       "gameDate": "2026-03-28T02:10:00Z",
       "officialDate": "2026-03-27",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Diamondbacks",
+          "score": 4,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 25
         },
         "home": {
           "team": "Dodgers",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 21
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -1259,7 +1291,7 @@
           "chartPos": 21
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -1801,7 +1833,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 3,
+          "seriesNumber": 2,
           "chartPos": 33
         },
         "home": {
@@ -1850,7 +1882,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 3,
+          "seriesNumber": 2,
           "chartPos": 45
         }
       },
@@ -1877,7 +1909,7 @@
           "chartPos": 44
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -2115,7 +2147,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 3,
+          "seriesNumber": 2,
           "chartPos": 45
         }
       },
@@ -2185,7 +2217,7 @@
           "chartPos": 44
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -2515,7 +2547,7 @@
           "chartPos": 44
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -4992,7 +5024,7 @@
           "chartPos": 42
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -5300,7 +5332,7 @@
           "chartPos": 42
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -5630,7 +5662,7 @@
           "chartPos": 42
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -5872,7 +5904,7 @@
           "chartPos": 5
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -6202,7 +6234,7 @@
           "chartPos": 5
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -6546,7 +6578,7 @@
           "chartPos": 5
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "description": "Jackie Robinson Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
@@ -9121,7 +9153,7 @@
           "chartPos": 11
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -9452,7 +9484,7 @@
           "chartPos": 11
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -9783,7 +9815,7 @@
           "chartPos": 11
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -9981,7 +10013,7 @@
           "chartPos": 3
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -10311,7 +10343,7 @@
           "chartPos": 3
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -10443,7 +10475,7 @@
           "chartPos": 3
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -13259,7 +13291,7 @@
           "chartPos": 1
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -13611,7 +13643,7 @@
           "chartPos": 1
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -13919,7 +13951,7 @@
           "chartPos": 1
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -14073,7 +14105,7 @@
           "chartPos": 34
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
@@ -14403,7 +14435,7 @@
           "chartPos": 34
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 2
     },
@@ -14733,7 +14765,7 @@
           "chartPos": 34
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 3
     },
@@ -14975,7 +15007,7 @@
           "chartPos": 34
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 4
     },
@@ -18341,7 +18373,7 @@
           "chartPos": 26
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -18693,7 +18725,7 @@
           "chartPos": 26
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -19023,7 +19055,7 @@
           "chartPos": 26
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -19485,7 +19517,7 @@
           "chartPos": 7
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -19815,7 +19847,7 @@
           "chartPos": 7
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -20123,7 +20155,7 @@
           "chartPos": 7
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -21546,7 +21578,7 @@
           "chartPos": 40
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -21854,7 +21886,7 @@
           "chartPos": 40
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -22162,7 +22194,7 @@
           "chartPos": 40
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -24434,7 +24466,7 @@
           "chartPos": 51
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -24764,7 +24796,7 @@
           "chartPos": 51
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -24896,7 +24928,7 @@
           "chartPos": 51
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -25556,7 +25588,7 @@
           "chartPos": 48
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -25842,7 +25874,7 @@
           "chartPos": 48
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -26172,7 +26204,7 @@
           "chartPos": 48
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -29472,7 +29504,7 @@
           "chartPos": 31
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
@@ -29736,7 +29768,7 @@
           "chartPos": 31
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 2
     },
@@ -30088,7 +30120,7 @@
           "chartPos": 31
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 3
     },
@@ -30396,7 +30428,7 @@
           "chartPos": 31
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 4
     },
@@ -30594,7 +30626,7 @@
           "chartPos": 27
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -30924,7 +30956,7 @@
           "chartPos": 27
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -31232,7 +31264,7 @@
           "chartPos": 27
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -31848,7 +31880,7 @@
           "chartPos": 23
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -32200,7 +32232,7 @@
           "chartPos": 23
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -32508,7 +32540,7 @@
           "chartPos": 23
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -36183,7 +36215,7 @@
           "chartPos": 41
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -36513,7 +36545,7 @@
           "chartPos": 41
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -36733,7 +36765,7 @@
           "chartPos": 41
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -37041,7 +37073,7 @@
           "chartPos": 49
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -37349,7 +37381,7 @@
           "chartPos": 49
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -37723,7 +37755,7 @@
           "chartPos": 49
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -39989,7 +40021,7 @@
           "chartPos": 46
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -40319,7 +40351,7 @@
           "chartPos": 46
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -40627,7 +40659,7 @@
           "chartPos": 46
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -40848,7 +40880,7 @@
           "chartPos": 16
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
@@ -41134,7 +41166,7 @@
           "chartPos": 16
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 2
     },
@@ -41442,7 +41474,7 @@
           "chartPos": 16
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 3
     },
@@ -41794,7 +41826,7 @@
           "chartPos": 16
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 4,
       "seriesGameNumber": 4
     },
@@ -43180,7 +43212,7 @@
           "chartPos": 18
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -43510,7 +43542,7 @@
           "chartPos": 18
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -43774,7 +43806,7 @@
           "chartPos": 18
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -46459,7 +46491,7 @@
           "chartPos": 20
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -46789,7 +46821,7 @@
           "chartPos": 20
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -46987,7 +47019,7 @@
           "chartPos": 20
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -47295,7 +47327,7 @@
           "chartPos": 10
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -47625,7 +47657,7 @@
           "chartPos": 10
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -47977,7 +48009,7 @@
           "chartPos": 10
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -48197,7 +48229,7 @@
           "chartPos": 13
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -48549,7 +48581,7 @@
           "chartPos": 13
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -48879,7 +48911,7 @@
           "chartPos": 13
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -51402,7 +51434,7 @@
           "chartPos": 35
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -51710,7 +51742,7 @@
           "chartPos": 35
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -51996,7 +52028,7 @@
           "chartPos": 35
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -52458,7 +52490,7 @@
           "chartPos": 32
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -52766,7 +52798,7 @@
           "chartPos": 32
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -53052,7 +53084,7 @@
           "chartPos": 32
         }
       },
-      "venue": "UNIQLO FIELD AT DODGER STADIUM",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
