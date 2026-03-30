@@ -1382,15 +1382,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T17:35:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Twins",
+          "score": 6,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 1
         },
         "home": {
           "team": "Orioles",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 25
         }
@@ -1404,15 +1408,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T17:35:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rangers",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 51
         },
         "home": {
           "team": "Phillies",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 41
         }
@@ -1426,15 +1434,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T17:35:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Royals",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 48
         },
         "home": {
           "team": "Braves",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 45
         }
@@ -1448,15 +1460,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T17:37:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Athletics",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 9
         },
         "home": {
           "team": "Blue Jays",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 27
         }
@@ -1470,15 +1486,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T17:40:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Red Sox",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 43
         },
         "home": {
           "team": "Reds",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 49
         }
@@ -1492,15 +1512,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T17:40:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Pirates",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 5
         },
         "home": {
           "team": "Mets",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 23
         }
@@ -1514,15 +1538,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T17:40:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rockies",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 3
         },
         "home": {
           "team": "Marlins",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 29
         }
@@ -1536,15 +1564,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T18:10:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Angels",
+          "score": 7,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 25
         },
         "home": {
           "team": "Astros",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 25
         }
@@ -1558,15 +1590,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T18:10:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "White Sox",
-          "seriesNumber": 2,
+          "score": 7,
+          "isWinner": false,
+          "seriesNumber": 1,
           "chartPos": 45
         },
         "home": {
           "team": "Brewers",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 42
         }
@@ -1580,15 +1616,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T18:15:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rays",
+          "score": 11,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 46
         },
         "home": {
           "team": "Cardinals",
+          "score": 7,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 51
         }
@@ -1602,15 +1642,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T18:20:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Nationals",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 17
         },
         "home": {
           "team": "Cubs",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 9
         }
@@ -1624,15 +1668,19 @@
       "season": "2026",
       "gameDate": "2026-03-29T23:20:00Z",
       "officialDate": "2026-03-29",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Guardians",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 1,
           "chartPos": 33
         },
         "home": {
           "team": "Mariners",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 1,
           "chartPos": 13
         }
@@ -2647,7 +2695,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 4,
+          "seriesNumber": 3,
           "chartPos": 9
         }
       },
@@ -2692,7 +2740,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 4,
+          "seriesNumber": 3,
           "chartPos": 5
         }
       },
@@ -2989,7 +3037,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 4,
+          "seriesNumber": 3,
           "chartPos": 1
         }
       },
@@ -3275,7 +3323,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 4,
+          "seriesNumber": 3,
           "chartPos": 1
         }
       },
@@ -38224,7 +38272,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 38,
+          "seriesNumber": 37,
           "chartPos": 42
         },
         "home": {
@@ -38625,7 +38673,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 38,
+          "seriesNumber": 37,
           "chartPos": 31
         }
       },
@@ -38867,7 +38915,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 38,
+          "seriesNumber": 37,
           "chartPos": 31
         }
       },
@@ -40495,7 +40543,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 40,
+          "seriesNumber": 39,
           "chartPos": 23
         }
       },
@@ -40693,7 +40741,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 40,
+          "seriesNumber": 39,
           "chartPos": 44
         }
       },
@@ -43774,7 +43822,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 43,
+          "seriesNumber": 42,
           "chartPos": 50
         }
       },
@@ -44171,7 +44219,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 44,
+          "seriesNumber": 43,
           "chartPos": 14
         }
       },
@@ -44347,7 +44395,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 44,
+          "seriesNumber": 43,
           "chartPos": 36
         }
       },
@@ -44567,7 +44615,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 44,
+          "seriesNumber": 43,
           "chartPos": 14
         }
       },
@@ -44787,7 +44835,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 44,
+          "seriesNumber": 43,
           "chartPos": 36
         }
       },
@@ -45222,7 +45270,7 @@
       "teams": {
         "away": {
           "team": "White Sox",
-          "seriesNumber": 45,
+          "seriesNumber": 44,
           "chartPos": 25
         },
         "home": {
@@ -45618,12 +45666,12 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 45,
+          "seriesNumber": 44,
           "chartPos": 36
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 45,
+          "seriesNumber": 44,
           "chartPos": 24
         }
       },
@@ -46657,7 +46705,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 46,
+          "seriesNumber": 45,
           "chartPos": 8
         }
       },
@@ -47933,7 +47981,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 47,
+          "seriesNumber": 46,
           "chartPos": 26
         }
       },
@@ -48192,7 +48240,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 48,
+          "seriesNumber": 47,
           "chartPos": 46
         },
         "home": {
@@ -48263,7 +48311,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 48,
+          "seriesNumber": 47,
           "chartPos": 19
         }
       },
@@ -48478,7 +48526,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 48,
+          "seriesNumber": 47,
           "chartPos": 46
         },
         "home": {
@@ -48505,7 +48553,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 48,
+          "seriesNumber": 47,
           "chartPos": 46
         }
       },
@@ -48615,7 +48663,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 48,
+          "seriesNumber": 47,
           "chartPos": 19
         }
       },
@@ -48703,7 +48751,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 48,
+          "seriesNumber": 47,
           "chartPos": 19
         }
       },
@@ -48901,7 +48949,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 48,
+          "seriesNumber": 47,
           "chartPos": 46
         }
       },
@@ -49385,7 +49433,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 49,
+          "seriesNumber": 48,
           "chartPos": 42
         }
       },
@@ -49539,7 +49587,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 49,
+          "seriesNumber": 48,
           "chartPos": 36
         }
       },
@@ -49715,7 +49763,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 49,
+          "seriesNumber": 48,
           "chartPos": 42
         }
       },
@@ -50287,7 +50335,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 50,
+          "seriesNumber": 49,
           "chartPos": 4
         }
       },
@@ -50631,7 +50679,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 50,
+          "seriesNumber": 49,
           "chartPos": 4
         }
       },
@@ -50649,7 +50697,7 @@
       "teams": {
         "away": {
           "team": "White Sox",
-          "seriesNumber": 50,
+          "seriesNumber": 49,
           "chartPos": 14
         },
         "home": {
@@ -50962,7 +51010,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 50,
+          "seriesNumber": 49,
           "chartPos": 4
         }
       },
@@ -51974,7 +52022,7 @@
         },
         "home": {
           "team": "White Sox",
-          "seriesNumber": 51,
+          "seriesNumber": 50,
           "chartPos": 18
         }
       },
@@ -52387,7 +52435,7 @@
       "teams": {
         "away": {
           "team": "White Sox",
-          "seriesNumber": 52,
+          "seriesNumber": 51,
           "chartPos": 22
         },
         "home": {
@@ -52453,7 +52501,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 52,
+          "seriesNumber": 51,
           "chartPos": 24
         },
         "home": {
@@ -52524,7 +52572,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 52,
+          "seriesNumber": 51,
           "chartPos": 47
         }
       },
@@ -52590,7 +52638,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 52,
+          "seriesNumber": 51,
           "chartPos": 47
         }
       },
@@ -52739,7 +52787,7 @@
       "teams": {
         "away": {
           "team": "White Sox",
-          "seriesNumber": 52,
+          "seriesNumber": 51,
           "chartPos": 22
         },
         "home": {
@@ -52805,7 +52853,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 52,
+          "seriesNumber": 51,
           "chartPos": 24
         },
         "home": {
@@ -52915,7 +52963,7 @@
       "teams": {
         "away": {
           "team": "White Sox",
-          "seriesNumber": 52,
+          "seriesNumber": 51,
           "chartPos": 22
         },
         "home": {
@@ -52981,7 +53029,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 52,
+          "seriesNumber": 51,
           "chartPos": 24
         },
         "home": {
@@ -53751,7 +53799,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 53,
+          "seriesNumber": 52,
           "chartPos": 32
         },
         "home": {
@@ -53993,7 +54041,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 53,
+          "seriesNumber": 52,
           "chartPos": 32
         },
         "home": {
