@@ -2840,15 +2840,19 @@
       "season": "2026",
       "gameDate": "2026-04-02T18:10:00Z",
       "officialDate": "2026-04-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Twins",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 2,
           "chartPos": 23
         },
         "home": {
           "team": "Royals",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 2,
           "chartPos": 23
         }
@@ -2862,15 +2866,19 @@
       "season": "2026",
       "gameDate": "2026-04-03T01:40:00Z",
       "officialDate": "2026-04-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Braves",
+          "score": 17,
+          "isWinner": true,
           "seriesNumber": 3,
           "chartPos": 27
         },
         "home": {
           "team": "Diamondbacks",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 3,
           "chartPos": 1
         }
@@ -2884,15 +2892,19 @@
       "season": "2026",
       "gameDate": "2026-04-03T01:45:00Z",
       "officialDate": "2026-04-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Mets",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 3,
           "chartPos": 35
         },
         "home": {
           "team": "Giants",
+          "score": 7,
+          "isWinner": true,
           "seriesNumber": 3,
           "chartPos": 5
         }
@@ -48983,6 +48995,28 @@
       "seriesGameNumber": 3
     },
     {
+      "gamePk": 823090,
+      "season": "2026",
+      "gameDate": "2026-09-09T20:10:00Z",
+      "officialDate": "2026-09-09",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Rangers",
+          "seriesNumber": 47,
+          "chartPos": 36
+        },
+        "home": {
+          "team": "Mariners",
+          "seriesNumber": 47,
+          "chartPos": 36
+        }
+      },
+      "venue": "T-Mobile Park",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 2
+    },
+    {
       "gamePk": 824791,
       "season": "2026",
       "gameDate": "2026-09-09T22:35:00Z",
@@ -49179,28 +49213,6 @@
       "venue": "American Family Field",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
-    },
-    {
-      "gamePk": 823090,
-      "season": "2026",
-      "gameDate": "2026-09-10T01:40:00Z",
-      "officialDate": "2026-09-09",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Rangers",
-          "seriesNumber": 47,
-          "chartPos": 36
-        },
-        "home": {
-          "team": "Mariners",
-          "seriesNumber": 47,
-          "chartPos": 36
-        }
-      },
-      "venue": "T-Mobile Park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 2
     },
     {
       "gamePk": 823900,

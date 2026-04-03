@@ -726,5 +726,29 @@
     "home": "Dodgers",
     "score": "4 - 1",
     "status": "Final"
+  },
+  {
+    "gamePk": 824133,
+    "date": "2026-04-02",
+    "road": "Twins",
+    "home": "Royals",
+    "score": "5 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 825105,
+    "date": "2026-04-02",
+    "road": "Braves",
+    "home": "Diamondbacks",
+    "score": "17 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823242,
+    "date": "2026-04-02",
+    "road": "Mets",
+    "home": "Giants",
+    "score": "2 - 7",
+    "status": "Final"
   }
 ]
