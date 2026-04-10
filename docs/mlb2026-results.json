@@ -1454,5 +1454,53 @@
     "home": "Twins",
     "score": "6 - 8",
     "status": "Final"
+  },
+  {
+    "gamePk": 823884,
+    "date": "2026-04-09",
+    "road": "Reds",
+    "home": "Marlins",
+    "score": "1 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823565,
+    "date": "2026-04-09",
+    "road": "Athletics",
+    "home": "Yankees",
+    "score": "1 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823724,
+    "date": "2026-04-09",
+    "road": "Tigers",
+    "home": "Twins",
+    "score": "1 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823645,
+    "date": "2026-04-09",
+    "road": "Diamondbacks",
+    "home": "Mets",
+    "score": "7 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824130,
+    "date": "2026-04-09",
+    "road": "White Sox",
+    "home": "Royals",
+    "score": "2 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823319,
+    "date": "2026-04-09",
+    "road": "Rockies",
+    "home": "Padres",
+    "score": "3 - 7",
+    "status": "Final"
   }
 ]
