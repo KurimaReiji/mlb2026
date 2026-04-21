@@ -9114,15 +9114,19 @@
       "season": "2026",
       "gameDate": "2026-04-20T15:10:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Tigers",
+          "score": 6,
+          "isWinner": false,
           "seriesNumber": 7,
           "chartPos": 3
         },
         "home": {
           "team": "Red Sox",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 7,
           "chartPos": 21
         }
@@ -9136,15 +9140,19 @@
       "season": "2026",
       "gameDate": "2026-04-20T22:10:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Astros",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 8,
           "chartPos": 13
         },
         "home": {
           "team": "Guardians",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 8,
           "chartPos": 29
         }
@@ -9158,15 +9166,19 @@
       "season": "2026",
       "gameDate": "2026-04-20T22:40:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Reds",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 8,
           "chartPos": 51
         },
         "home": {
           "team": "Rays",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 8,
           "chartPos": 43
         }
@@ -9180,15 +9192,19 @@
       "season": "2026",
       "gameDate": "2026-04-20T22:40:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Cardinals",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 8,
           "chartPos": 3
         },
         "home": {
           "team": "Marlins",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 8,
           "chartPos": 25
         }
@@ -9202,15 +9218,19 @@
       "season": "2026",
       "gameDate": "2026-04-20T22:45:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Braves",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 8,
           "chartPos": 13
         },
         "home": {
           "team": "Nationals",
+          "score": 4,
+          "isWinner": false,
           "seriesNumber": 8,
           "chartPos": 1
         }
@@ -9224,15 +9244,19 @@
       "season": "2026",
       "gameDate": "2026-04-20T23:40:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Orioles",
+          "score": 7,
+          "isWinner": true,
           "seriesNumber": 8,
           "chartPos": 23
         },
         "home": {
           "team": "Royals",
+          "score": 5,
+          "isWinner": false,
           "seriesNumber": 8,
           "chartPos": 1
         }
@@ -9246,15 +9270,19 @@
       "season": "2026",
       "gameDate": "2026-04-20T23:40:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Phillies",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 8,
           "chartPos": 18
         },
         "home": {
           "team": "Cubs",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 8,
           "chartPos": 8
         }
@@ -9268,15 +9296,19 @@
       "season": "2026",
       "gameDate": "2026-04-21T00:40:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Dodgers",
+          "score": 12,
+          "isWinner": true,
           "seriesNumber": 7,
           "chartPos": 25
         },
         "home": {
           "team": "Rockies",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 7,
           "chartPos": 25
         }
@@ -9290,15 +9322,19 @@
       "season": "2026",
       "gameDate": "2026-04-21T01:38:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Blue Jays",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 8,
           "chartPos": 31
         },
         "home": {
           "team": "Angels",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 8,
           "chartPos": 9
         }
@@ -9312,15 +9348,19 @@
       "season": "2026",
       "gameDate": "2026-04-21T01:40:00Z",
       "officialDate": "2026-04-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Athletics",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 8,
           "chartPos": 29
         },
         "home": {
           "team": "Mariners",
+          "score": 4,
+          "isWinner": false,
           "seriesNumber": 8,
           "chartPos": 21
         }
@@ -44753,6 +44793,28 @@
       "seriesGameNumber": 2
     },
     {
+      "gamePk": 823100,
+      "season": "2026",
+      "gameDate": "2026-08-22T23:15:00Z",
+      "officialDate": "2026-08-22",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Cubs",
+          "seriesNumber": 42,
+          "chartPos": 40
+        },
+        "home": {
+          "team": "Mariners",
+          "seriesNumber": 42,
+          "chartPos": 43
+        }
+      },
+      "venue": "T-Mobile Park",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 2
+    },
+    {
       "gamePk": 824718,
       "season": "2026",
       "gameDate": "2026-08-22T23:15:00Z",
@@ -44859,28 +44921,6 @@
         }
       },
       "venue": "UNIQLO Field at Dodger Stadium",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 2
-    },
-    {
-      "gamePk": 823100,
-      "season": "2026",
-      "gameDate": "2026-08-23T01:40:00Z",
-      "officialDate": "2026-08-22",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Cubs",
-          "seriesNumber": 42,
-          "chartPos": 40
-        },
-        "home": {
-          "team": "Mariners",
-          "seriesNumber": 42,
-          "chartPos": 43
-        }
-      },
-      "venue": "T-Mobile Park",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
