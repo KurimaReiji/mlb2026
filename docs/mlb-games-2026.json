@@ -16531,15 +16531,19 @@
       "season": "2026",
       "gameDate": "2026-05-11T22:10:00Z",
       "officialDate": "2026-05-11",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Angels",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 14,
           "chartPos": 13
         },
         "home": {
           "team": "Guardians",
+          "score": 7,
+          "isWinner": true,
           "seriesNumber": 14,
           "chartPos": 31
         }
@@ -16553,15 +16557,19 @@
       "season": "2026",
       "gameDate": "2026-05-11T22:35:00Z",
       "officialDate": "2026-05-11",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Yankees",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 14,
           "chartPos": 2
         },
         "home": {
           "team": "Orioles",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 14,
           "chartPos": 6
         }
@@ -16575,15 +16583,19 @@
       "season": "2026",
       "gameDate": "2026-05-11T23:07:00Z",
       "officialDate": "2026-05-11",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rays",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 14,
           "chartPos": 14
         },
         "home": {
           "team": "Blue Jays",
+          "score": 5,
+          "isWinner": false,
           "seriesNumber": 14,
           "chartPos": 14
         }
@@ -16597,15 +16609,19 @@
       "season": "2026",
       "gameDate": "2026-05-12T00:05:00Z",
       "officialDate": "2026-05-11",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Diamondbacks",
+          "score": 1,
+          "isWinner": true,
           "seriesNumber": 14,
           "chartPos": 41
         },
         "home": {
           "team": "Rangers",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 14,
           "chartPos": 37
         }
@@ -16619,15 +16635,19 @@
       "season": "2026",
       "gameDate": "2026-05-12T00:10:00Z",
       "officialDate": "2026-05-11",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Mariners",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 14,
           "chartPos": 26
         },
         "home": {
           "team": "Astros",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 14,
           "chartPos": 30
         }
@@ -16641,15 +16661,19 @@
       "season": "2026",
       "gameDate": "2026-05-12T02:10:00Z",
       "officialDate": "2026-05-11",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Giants",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 14,
           "chartPos": 30
         },
         "home": {
           "team": "Dodgers",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 14,
           "chartPos": 34
         }
@@ -17671,6 +17695,28 @@
       "seriesGameNumber": 1
     },
     {
+      "gamePk": 823707,
+      "season": "2026",
+      "gameDate": "2026-05-15T23:10:00Z",
+      "officialDate": "2026-05-15",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Brewers",
+          "seriesNumber": 15,
+          "chartPos": 46
+        },
+        "home": {
+          "team": "Twins",
+          "seriesNumber": 15,
+          "chartPos": 44
+        }
+      },
+      "venue": "Target Field",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
       "gamePk": 824925,
       "season": "2026",
       "gameDate": "2026-05-15T23:15:00Z",
@@ -17755,28 +17801,6 @@
         }
       },
       "venue": "Daikin Park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
-      "gamePk": 823707,
-      "season": "2026",
-      "gameDate": "2026-05-16T00:10:00Z",
-      "officialDate": "2026-05-15",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Brewers",
-          "seriesNumber": 15,
-          "chartPos": 46
-        },
-        "home": {
-          "team": "Twins",
-          "seriesNumber": 15,
-          "chartPos": 44
-        }
-      },
-      "venue": "Target Field",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
