@@ -5590,5 +5590,117 @@
     "home": "Mariners",
     "score": "8 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 824277,
+    "date": "2026-05-18",
+    "road": "Guardians",
+    "home": "Tigers",
+    "score": "8 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822980,
+    "date": "2026-05-18",
+    "road": "Orioles",
+    "home": "Rays",
+    "score": "6 - 16",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823465,
+    "date": "2026-05-18",
+    "road": "Reds",
+    "home": "Phillies",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823867,
+    "date": "2026-05-18",
+    "road": "Braves",
+    "home": "Marlins",
+    "score": "0 - 12",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822734,
+    "date": "2026-05-18",
+    "road": "Mets",
+    "home": "Nationals",
+    "score": "16 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823549,
+    "date": "2026-05-18",
+    "road": "Blue Jays",
+    "home": "Yankees",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824114,
+    "date": "2026-05-18",
+    "road": "Red Sox",
+    "home": "Royals",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823705,
+    "date": "2026-05-18",
+    "road": "Astros",
+    "home": "Twins",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824680,
+    "date": "2026-05-18",
+    "road": "Brewers",
+    "home": "Cubs",
+    "score": "9 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824357,
+    "date": "2026-05-18",
+    "road": "Rangers",
+    "home": "Rockies",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824035,
+    "date": "2026-05-18",
+    "road": "Athletics",
+    "home": "Angels",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823301,
+    "date": "2026-05-18",
+    "road": "Dodgers",
+    "home": "Padres",
+    "score": "0 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 825087,
+    "date": "2026-05-18",
+    "road": "Giants",
+    "home": "Diamondbacks",
+    "score": "2 - 12",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823137,
+    "date": "2026-05-18",
+    "road": "White Sox",
+    "home": "Mariners",
+    "score": "1 - 6",
+    "status": "Final"
   }
 ]
