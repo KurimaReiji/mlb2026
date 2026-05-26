@@ -6342,5 +6342,109 @@
     "home": "Angels",
     "score": "1 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 823380,
+    "date": "2026-05-25",
+    "road": "Cubs",
+    "home": "Pirates",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824838,
+    "date": "2026-05-25",
+    "road": "Rays",
+    "home": "Orioles",
+    "score": "7 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824598,
+    "date": "2026-05-25",
+    "road": "Twins",
+    "home": "White Sox",
+    "score": "1 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823784,
+    "date": "2026-05-25",
+    "road": "Cardinals",
+    "home": "Brewers",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824107,
+    "date": "2026-05-25",
+    "road": "Yankees",
+    "home": "Royals",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823625,
+    "date": "2026-05-25",
+    "road": "Reds",
+    "home": "Mets",
+    "score": "7 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823219,
+    "date": "2026-05-25",
+    "road": "Diamondbacks",
+    "home": "Giants",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824437,
+    "date": "2026-05-25",
+    "road": "Nationals",
+    "home": "Guardians",
+    "score": "10 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823296,
+    "date": "2026-05-25",
+    "road": "Phillies",
+    "home": "Padres",
+    "score": "3 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822899,
+    "date": "2026-05-25",
+    "road": "Astros",
+    "home": "Rangers",
+    "score": "9 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822812,
+    "date": "2026-05-25",
+    "road": "Marlins",
+    "home": "Blue Jays",
+    "score": "8 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823948,
+    "date": "2026-05-25",
+    "road": "Rockies",
+    "home": "Dodgers",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 825005,
+    "date": "2026-05-25",
+    "road": "Mariners",
+    "home": "Athletics",
+    "score": "9 - 2",
+    "status": "Final"
   }
 ]

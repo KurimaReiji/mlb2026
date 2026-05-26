@@ -21474,15 +21474,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T17:35:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Cubs",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 20
         },
         "home": {
           "team": "Pirates",
+          "score": 2,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 12
         }
@@ -21496,15 +21500,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T17:35:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rays",
+          "score": 7,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 2
         },
         "home": {
           "team": "Orioles",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 10
         }
@@ -21518,15 +21526,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T18:10:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Twins",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 11
         },
         "home": {
           "team": "White Sox",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 23
         }
@@ -21540,15 +21552,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T18:10:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Cardinals",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 20
         },
         "home": {
           "team": "Brewers",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 24
         }
@@ -21562,15 +21578,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T19:40:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Yankees",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 24
         },
         "home": {
           "team": "Royals",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 6
         }
@@ -21584,15 +21604,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T20:10:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Reds",
+          "score": 7,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 5
         },
         "home": {
           "team": "Mets",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 19
         }
@@ -21606,15 +21630,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T21:05:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Diamondbacks",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 34
         },
         "home": {
           "team": "Giants",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 22
         }
@@ -21628,15 +21656,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T22:10:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Nationals",
+          "score": 10,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 43
         },
         "home": {
           "team": "Guardians",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 52
         }
@@ -21650,15 +21682,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T22:40:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Phillies",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 33
         },
         "home": {
           "team": "Padres",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 7
         }
@@ -21672,15 +21708,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T23:05:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Astros",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 34
         },
         "home": {
           "team": "Rangers",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 26
         }
@@ -21694,15 +21734,19 @@
       "season": "2026",
       "gameDate": "2026-05-25T23:07:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Marlins",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 52
         },
         "home": {
           "team": "Blue Jays",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 48
         }
@@ -21716,15 +21760,19 @@
       "season": "2026",
       "gameDate": "2026-05-26T01:10:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rockies",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 26
         },
         "home": {
           "team": "Dodgers",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 26
         }
@@ -21738,15 +21786,19 @@
       "season": "2026",
       "gameDate": "2026-05-26T01:40:00Z",
       "officialDate": "2026-05-25",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Mariners",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 18,
           "chartPos": 22
         },
         "home": {
           "team": "Athletics",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 18,
           "chartPos": 30
         }
