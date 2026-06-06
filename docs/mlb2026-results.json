@@ -7478,5 +7478,125 @@
     "home": "Diamondbacks",
     "score": "2 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 824673,
+    "date": "2026-06-05",
+    "road": "Giants",
+    "home": "Cubs",
+    "score": "18 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824271,
+    "date": "2026-06-05",
+    "road": "Mariners",
+    "home": "Tigers",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823455,
+    "date": "2026-06-05",
+    "road": "White Sox",
+    "home": "Phillies",
+    "score": "6 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823538,
+    "date": "2026-06-05",
+    "road": "Red Sox",
+    "home": "Yankees",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822810,
+    "date": "2026-06-05",
+    "road": "Orioles",
+    "home": "Blue Jays",
+    "score": "13 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823860,
+    "date": "2026-06-05",
+    "road": "Rays",
+    "home": "Marlins",
+    "score": "6 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824914,
+    "date": "2026-06-05",
+    "road": "Pirates",
+    "home": "Braves",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824186,
+    "date": "2026-06-05",
+    "road": "Athletics",
+    "home": "Astros",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823049,
+    "date": "2026-06-05",
+    "road": "Reds",
+    "home": "Cardinals",
+    "score": "3 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822892,
+    "date": "2026-06-05",
+    "road": "Guardians",
+    "home": "Rangers",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823699,
+    "date": "2026-06-05",
+    "road": "Royals",
+    "home": "Twins",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824350,
+    "date": "2026-06-05",
+    "road": "Brewers",
+    "home": "Rockies",
+    "score": "9 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 825073,
+    "date": "2026-06-05",
+    "road": "Nationals",
+    "home": "Diamondbacks",
+    "score": "14 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823293,
+    "date": "2026-06-05",
+    "road": "Mets",
+    "home": "Padres",
+    "score": "5 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823943,
+    "date": "2026-06-05",
+    "road": "Angels",
+    "home": "Dodgers",
+    "score": "0 - 1",
+    "status": "Final"
   }
 ]
