@@ -29466,7 +29466,7 @@
         }
       },
       "venue": "Truist Park",
-      "gamesInSeries": 3,
+      "gamesInSeries": 2,
       "seriesGameNumber": 2
     },
     {
@@ -29648,7 +29648,7 @@
         }
       },
       "venue": "Truist Park",
-      "gamesInSeries": 3,
+      "gamesInSeries": 2,
       "seriesGameNumber": 2
     },
     {
@@ -30356,15 +30356,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T17:10:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "White Sox",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 16
         },
         "home": {
           "team": "Tigers",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 12
         }
@@ -30378,15 +30382,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T17:35:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Reds",
+          "score": 10,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 50
         },
         "home": {
           "team": "Yankees",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 43
         }
@@ -30400,15 +30408,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T18:20:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Blue Jays",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 42
         },
         "home": {
           "team": "Cubs",
+          "score": 6,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 52
         }
@@ -30422,15 +30434,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T20:05:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Padres",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 42
         },
         "home": {
           "team": "Rangers",
+          "score": 4,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 41
         }
@@ -30444,15 +30460,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T20:10:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Nationals",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 51
         },
         "home": {
           "team": "Rays",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 52
         }
@@ -30466,15 +30486,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T20:10:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Giants",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 4
         },
         "home": {
           "team": "Marlins",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 36
         }
@@ -30488,15 +30512,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T20:10:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Brewers",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 1
         },
         "home": {
           "team": "Braves",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 21
         }
@@ -30510,15 +30538,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T23:15:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Guardians",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 30
         },
         "home": {
           "team": "Astros",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 14
         }
@@ -30532,15 +30564,19 @@
       "season": "2026",
       "gameDate": "2026-06-20T23:15:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Mets",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 9
         },
         "home": {
           "team": "Phillies",
+          "score": 15,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 9
         }
@@ -30554,15 +30590,19 @@
       "season": "2026",
       "gameDate": "2026-06-21T01:10:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Pirates",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 30
         },
         "home": {
           "team": "Rockies",
+          "score": 2,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 18
         }
@@ -30576,15 +30616,19 @@
       "season": "2026",
       "gameDate": "2026-06-21T02:05:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Angels",
+          "score": 7,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 22
         },
         "home": {
           "team": "Athletics",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 26
         }
@@ -30598,15 +30642,19 @@
       "season": "2026",
       "gameDate": "2026-06-21T02:10:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Orioles",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 39
         },
         "home": {
           "team": "Dodgers",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 48
         }
@@ -30620,15 +30668,19 @@
       "season": "2026",
       "gameDate": "2026-06-21T02:10:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Red Sox",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 33
         },
         "home": {
           "team": "Mariners",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 3
         }
@@ -30642,15 +30694,19 @@
       "season": "2026",
       "gameDate": "2026-06-21T02:10:00Z",
       "officialDate": "2026-06-20",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Twins",
+          "score": 16,
+          "isWinner": true,
           "seriesNumber": 25,
           "chartPos": 37
         },
         "home": {
           "team": "Diamondbacks",
+          "score": 8,
+          "isWinner": false,
           "seriesNumber": 25,
           "chartPos": 47
         }
@@ -51725,7 +51781,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 45,
+          "seriesNumber": 46,
           "chartPos": 18
         },
         "home": {
@@ -51960,7 +52016,7 @@
       "venue": "Progressive Field",
       "gameNumber": 2,
       "doubleHeader": "S",
-      "gamesInSeries": 3,
+      "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
     {
@@ -52016,7 +52072,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 11
         },
         "home": {
@@ -52060,7 +52116,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 6
         },
         "home": {
@@ -52280,7 +52336,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 6
         },
         "home": {
@@ -52324,7 +52380,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 11
         },
         "home": {
@@ -52632,7 +52688,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 11
         },
         "home": {
@@ -52720,7 +52776,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 6
         },
         "home": {
@@ -52940,7 +52996,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 11
         },
         "home": {
@@ -53121,7 +53177,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 19
         }
       },
@@ -53319,7 +53375,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 51
         }
       },
@@ -53473,7 +53529,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 19
         }
       },
@@ -53561,7 +53617,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 19
         }
       },
@@ -53737,7 +53793,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 51
         }
       },
@@ -53847,7 +53903,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 51
         }
       },
@@ -54133,7 +54189,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 12
         }
       },
@@ -54265,7 +54321,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 36
         }
       },
@@ -54397,7 +54453,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 36
         }
       },
@@ -54529,7 +54585,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 12
         }
       },
@@ -54683,7 +54739,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 12
         }
       },
@@ -54925,7 +54981,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 36
         }
       },
@@ -55030,7 +55086,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 18
         },
         "home": {
@@ -55074,7 +55130,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 20
         },
         "home": {
@@ -55323,7 +55379,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 18
         },
         "home": {
@@ -55369,7 +55425,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 20
         },
         "home": {
@@ -55529,7 +55585,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 20
         },
         "home": {
@@ -55705,7 +55761,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 18
         },
         "home": {
@@ -56233,7 +56289,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 38
         },
         "home": {
@@ -56343,7 +56399,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 31
         },
         "home": {
@@ -56519,7 +56575,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 38
         },
         "home": {
@@ -56651,7 +56707,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 31
         },
         "home": {
@@ -56805,7 +56861,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 38
         },
         "home": {
@@ -56937,7 +56993,7 @@
       "teams": {
         "away": {
           "team": "Giants",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 31
         },
         "home": {
@@ -57074,7 +57130,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 47
         }
       },
@@ -57254,7 +57310,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 20
         }
       },
@@ -57408,7 +57464,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 47
         }
       },
@@ -57474,7 +57530,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 47
         }
       },
@@ -57606,7 +57662,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 20
         }
       },
@@ -57958,7 +58014,7 @@
         },
         "home": {
           "team": "Braves",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 20
         }
       },
@@ -58173,7 +58229,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 53,
+          "seriesNumber": 54,
           "chartPos": 4
         },
         "home": {
@@ -58354,7 +58410,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 32
         }
       },
@@ -58442,7 +58498,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 32
         }
       },
@@ -58481,7 +58537,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 53,
+          "seriesNumber": 54,
           "chartPos": 4
         },
         "home": {
@@ -58772,7 +58828,7 @@
         },
         "home": {
           "team": "Giants",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 32
         }
       },
@@ -58965,7 +59021,7 @@
       "teams": {
         "away": {
           "team": "Braves",
-          "seriesNumber": 53,
+          "seriesNumber": 54,
           "chartPos": 4
         },
         "home": {
