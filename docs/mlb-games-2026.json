@@ -32195,7 +32195,7 @@
         }
       },
       "venue": "Busch Stadium",
-      "gamesInSeries": 4,
+      "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
     {
@@ -33995,15 +33995,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T22:35:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "White Sox",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 2
         },
         "home": {
           "team": "Orioles",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 18
         }
@@ -34017,15 +34021,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T22:40:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rangers",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 14
         },
         "home": {
           "team": "Guardians",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 36
         }
@@ -34039,15 +34047,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T22:40:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Pirates",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 8
         },
         "home": {
           "team": "Phillies",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 24
         }
@@ -34061,15 +34073,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T23:05:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Tigers",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 6
         },
         "home": {
           "team": "Yankees",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 22
         }
@@ -34083,15 +34099,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T23:07:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Mets",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 52
         },
         "home": {
           "team": "Blue Jays",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 49
         }
@@ -34105,15 +34125,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T23:10:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Nationals",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 49
         },
         "home": {
           "team": "Red Sox",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 52
         }
@@ -34127,15 +34151,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T23:15:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Cardinals",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 1
         },
         "home": {
           "team": "Braves",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 25
         }
@@ -34149,15 +34177,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T23:40:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rays",
+          "score": 10,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 24
         },
         "home": {
           "team": "Royals",
+          "score": 4,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 8
         }
@@ -34171,15 +34203,19 @@
       "season": "2026",
       "gameDate": "2026-06-30T23:40:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Reds",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 16
         },
         "home": {
           "team": "Brewers",
+          "score": 7,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 16
         }
@@ -34193,15 +34229,19 @@
       "season": "2026",
       "gameDate": "2026-07-01T00:05:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Padres",
+          "score": 7,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 12
         },
         "home": {
           "team": "Cubs",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 34
         }
@@ -34215,15 +34255,19 @@
       "season": "2026",
       "gameDate": "2026-07-01T00:10:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Twins",
+          "score": 4,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 30
         },
         "home": {
           "team": "Astros",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 20
         }
@@ -34237,15 +34281,19 @@
       "season": "2026",
       "gameDate": "2026-07-01T00:40:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Marlins",
+          "score": 14,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 30
         },
         "home": {
           "team": "Rockies",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 4
         }
@@ -34259,15 +34307,19 @@
       "season": "2026",
       "gameDate": "2026-07-01T01:40:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Dodgers",
+          "score": 9,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 37
         },
         "home": {
           "team": "Athletics",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 39
         }
@@ -34281,15 +34333,19 @@
       "season": "2026",
       "gameDate": "2026-07-01T01:40:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Angels",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 30
         },
         "home": {
           "team": "Mariners",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 30
         }
@@ -34303,15 +34359,19 @@
       "season": "2026",
       "gameDate": "2026-07-01T01:40:00Z",
       "officialDate": "2026-06-30",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Giants",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 23
         },
         "home": {
           "team": "Diamondbacks",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 35
         }
@@ -40721,7 +40781,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 34,
+          "seriesNumber": 35,
           "chartPos": 10
         },
         "home": {
@@ -40946,7 +41006,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 34,
+          "seriesNumber": 35,
           "chartPos": 17
         }
       },
@@ -41073,7 +41133,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 35,
+          "seriesNumber": 36,
           "chartPos": 18
         },
         "home": {
@@ -41210,7 +41270,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 35,
+          "seriesNumber": 36,
           "chartPos": 13
         }
       },
@@ -41315,7 +41375,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 35,
+          "seriesNumber": 36,
           "chartPos": 18
         },
         "home": {
@@ -41645,7 +41705,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 35,
+          "seriesNumber": 36,
           "chartPos": 18
         },
         "home": {
@@ -41870,7 +41930,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 35,
+          "seriesNumber": 36,
           "chartPos": 13
         }
       },
@@ -42024,7 +42084,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 35,
+          "seriesNumber": 36,
           "chartPos": 13
         }
       },
@@ -42239,7 +42299,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 36,
+          "seriesNumber": 37,
           "chartPos": 52
         },
         "home": {
@@ -42261,7 +42321,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 36,
+          "seriesNumber": 37,
           "chartPos": 44
         },
         "home": {
@@ -42503,7 +42563,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 36,
+          "seriesNumber": 37,
           "chartPos": 52
         },
         "home": {
@@ -42657,7 +42717,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 36,
+          "seriesNumber": 37,
           "chartPos": 44
         },
         "home": {
@@ -42877,7 +42937,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 36,
+          "seriesNumber": 37,
           "chartPos": 52
         },
         "home": {
@@ -42899,7 +42959,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 36,
+          "seriesNumber": 37,
           "chartPos": 44
         },
         "home": {
@@ -43185,7 +43245,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 37,
+          "seriesNumber": 38,
           "chartPos": 50
         },
         "home": {
@@ -43322,7 +43382,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 37,
+          "seriesNumber": 38,
           "chartPos": 31
         }
       },
@@ -43427,7 +43487,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 37,
+          "seriesNumber": 38,
           "chartPos": 50
         },
         "home": {
@@ -43630,7 +43690,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 37,
+          "seriesNumber": 38,
           "chartPos": 31
         }
       },
@@ -43845,7 +43905,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 37,
+          "seriesNumber": 38,
           "chartPos": 50
         },
         "home": {
@@ -43960,7 +44020,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 37,
+          "seriesNumber": 38,
           "chartPos": 31
         }
       },
@@ -44225,7 +44285,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 37,
+          "seriesNumber": 38,
           "chartPos": 31
         }
       },
@@ -44467,7 +44527,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 38,
+          "seriesNumber": 39,
           "chartPos": 29
         }
       },
@@ -44489,7 +44549,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 38,
+          "seriesNumber": 39,
           "chartPos": 28
         }
       },
@@ -44797,7 +44857,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 38,
+          "seriesNumber": 39,
           "chartPos": 29
         }
       },
@@ -44863,7 +44923,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 38,
+          "seriesNumber": 39,
           "chartPos": 28
         }
       },
@@ -45105,7 +45165,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 38,
+          "seriesNumber": 39,
           "chartPos": 29
         }
       },
@@ -45171,7 +45231,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 38,
+          "seriesNumber": 39,
           "chartPos": 28
         }
       },
@@ -45303,7 +45363,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 39,
+          "seriesNumber": 40,
           "chartPos": 7
         }
       },
@@ -45347,7 +45407,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 39,
+          "seriesNumber": 40,
           "chartPos": 23
         }
       },
@@ -45633,7 +45693,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 39,
+          "seriesNumber": 40,
           "chartPos": 7
         }
       },
@@ -45677,7 +45737,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 39,
+          "seriesNumber": 40,
           "chartPos": 23
         }
       },
@@ -45809,7 +45869,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 39,
+          "seriesNumber": 40,
           "chartPos": 7
         }
       },
@@ -45853,7 +45913,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 39,
+          "seriesNumber": 40,
           "chartPos": 23
         }
       },
@@ -46311,7 +46371,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 40,
+          "seriesNumber": 41,
           "chartPos": 14
         },
         "home": {
@@ -46487,7 +46547,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 40,
+          "seriesNumber": 41,
           "chartPos": 2
         },
         "home": {
@@ -46641,7 +46701,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 40,
+          "seriesNumber": 41,
           "chartPos": 14
         },
         "home": {
@@ -46861,7 +46921,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 40,
+          "seriesNumber": 41,
           "chartPos": 2
         },
         "home": {
@@ -46993,7 +47053,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 40,
+          "seriesNumber": 41,
           "chartPos": 2
         },
         "home": {
@@ -47147,7 +47207,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 40,
+          "seriesNumber": 41,
           "chartPos": 14
         },
         "home": {
@@ -47281,7 +47341,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 41
+          "seriesNumber": 42
         },
         "home": {
           "team": "Reds",
@@ -47394,7 +47454,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 41,
+          "seriesNumber": 42,
           "chartPos": 49
         },
         "home": {
@@ -47592,7 +47652,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 41,
+          "seriesNumber": 42,
           "chartPos": 18
         },
         "home": {
@@ -47658,7 +47718,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 41,
+          "seriesNumber": 42,
           "chartPos": 49
         },
         "home": {
@@ -47944,7 +48004,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 41,
+          "seriesNumber": 42,
           "chartPos": 49
         },
         "home": {
@@ -48032,7 +48092,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 41,
+          "seriesNumber": 42,
           "chartPos": 18
         },
         "home": {
@@ -48186,7 +48246,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 41,
+          "seriesNumber": 42,
           "chartPos": 18
         },
         "home": {
@@ -48407,7 +48467,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 42,
+          "seriesNumber": 43,
           "chartPos": 8
         },
         "home": {
@@ -48632,7 +48692,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 42,
+          "seriesNumber": 43,
           "chartPos": 14
         }
       },
@@ -48781,7 +48841,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 42,
+          "seriesNumber": 43,
           "chartPos": 8
         },
         "home": {
@@ -48962,7 +49022,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 42,
+          "seriesNumber": 43,
           "chartPos": 14
         }
       },
@@ -49067,7 +49127,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 42,
+          "seriesNumber": 43,
           "chartPos": 8
         },
         "home": {
@@ -49336,7 +49396,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 42,
+          "seriesNumber": 43,
           "chartPos": 14
         }
       },
@@ -49491,7 +49551,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 43,
+          "seriesNumber": 44,
           "chartPos": 12
         }
       },
@@ -49777,7 +49837,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 43,
+          "seriesNumber": 44,
           "chartPos": 48
         }
       },
@@ -49821,7 +49881,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 43,
+          "seriesNumber": 44,
           "chartPos": 12
         }
       },
@@ -49953,7 +50013,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 43,
+          "seriesNumber": 44,
           "chartPos": 12
         }
       },
@@ -50217,7 +50277,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 43,
+          "seriesNumber": 44,
           "chartPos": 48
         }
       },
@@ -50283,7 +50343,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 43,
+          "seriesNumber": 44,
           "chartPos": 48
         }
       },
@@ -50388,7 +50448,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 44,
+          "seriesNumber": 45,
           "chartPos": 36
         },
         "home": {
@@ -50657,7 +50717,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 44,
+          "seriesNumber": 45,
           "chartPos": 25
         }
       },
@@ -50718,7 +50778,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 44,
+          "seriesNumber": 45,
           "chartPos": 36
         },
         "home": {
@@ -50838,7 +50898,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 44,
+          "seriesNumber": 45,
           "chartPos": 25
         }
       },
@@ -51327,7 +51387,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 44,
+          "seriesNumber": 45,
           "chartPos": 25
         }
       },
@@ -51680,7 +51740,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 45,
+          "seriesNumber": 46,
           "chartPos": 8
         }
       },
@@ -51988,7 +52048,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 45,
+          "seriesNumber": 46,
           "chartPos": 8
         }
       },
@@ -52005,7 +52065,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 45,
+          "seriesNumber": 46,
           "chartPos": 32
         },
         "home": {
@@ -52120,7 +52180,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 45,
+          "seriesNumber": 46,
           "chartPos": 8
         }
       },
@@ -52335,7 +52395,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 45,
+          "seriesNumber": 46,
           "chartPos": 32
         },
         "home": {
@@ -52533,7 +52593,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 45,
+          "seriesNumber": 46,
           "chartPos": 32
         },
         "home": {
@@ -52780,7 +52840,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 38
         },
         "home": {
@@ -52824,7 +52884,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 30
         },
         "home": {
@@ -53132,7 +53192,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 38
         },
         "home": {
@@ -53176,7 +53236,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 30
         },
         "home": {
@@ -53396,7 +53456,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 38
         },
         "home": {
@@ -53462,7 +53522,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 46,
+          "seriesNumber": 47,
           "chartPos": 30
         },
         "home": {
@@ -53682,7 +53742,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 46
         },
         "home": {
@@ -53748,7 +53808,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 35
         },
         "home": {
@@ -53968,7 +54028,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 46
         },
         "home": {
@@ -54100,7 +54160,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 35
         },
         "home": {
@@ -54188,7 +54248,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 35
         },
         "home": {
@@ -54386,7 +54446,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 47,
+          "seriesNumber": 48,
           "chartPos": 46
         },
         "home": {
@@ -54831,7 +54891,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 42
         }
       },
@@ -54875,7 +54935,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 42
         }
       },
@@ -55183,7 +55243,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 42
         }
       },
@@ -55205,7 +55265,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 42
         }
       },
@@ -55469,7 +55529,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 42
         }
       },
@@ -55535,7 +55595,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 48,
+          "seriesNumber": 49,
           "chartPos": 42
         }
       },
@@ -55711,7 +55771,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 36
         }
       },
@@ -55777,7 +55837,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 4
         }
       },
@@ -56006,7 +56066,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 36
         }
       },
@@ -56121,7 +56181,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 4
         }
       },
@@ -56166,7 +56226,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 36
         }
       },
@@ -56452,7 +56512,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 49,
+          "seriesNumber": 50,
           "chartPos": 4
         }
       },
@@ -56892,7 +56952,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 10
         }
       },
@@ -56958,7 +57018,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 50
         }
       },
@@ -57200,7 +57260,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 10
         }
       },
@@ -57244,7 +57304,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 50
         }
       },
@@ -57486,7 +57546,7 @@
         },
         "home": {
           "team": "Cardinals",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 10
         }
       },
@@ -57618,7 +57678,7 @@
         },
         "home": {
           "team": "Diamondbacks",
-          "seriesNumber": 50,
+          "seriesNumber": 51,
           "chartPos": 50
         }
       },
@@ -57815,7 +57875,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 26
         },
         "home": {
@@ -57969,7 +58029,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 24
         },
         "home": {
@@ -58145,7 +58205,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 26
         },
         "home": {
@@ -58321,7 +58381,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 24
         },
         "home": {
@@ -58409,7 +58469,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 26
         },
         "home": {
@@ -58497,7 +58557,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 51,
+          "seriesNumber": 52,
           "chartPos": 24
         },
         "home": {
@@ -58871,7 +58931,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 22
         },
         "home": {
@@ -58937,7 +58997,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 32
         },
         "home": {
@@ -59223,7 +59283,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 22
         },
         "home": {
@@ -59267,7 +59327,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 32
         },
         "home": {
@@ -59509,7 +59569,7 @@
       "teams": {
         "away": {
           "team": "Diamondbacks",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 32
         },
         "home": {
@@ -59619,7 +59679,7 @@
       "teams": {
         "away": {
           "team": "Cardinals",
-          "seriesNumber": 52,
+          "seriesNumber": 53,
           "chartPos": 22
         },
         "home": {
