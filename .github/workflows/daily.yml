@@ -10,7 +10,7 @@ jobs:
     env:
       CI_COMMIT_MESSAGE: daily update
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - uses: actions/setup-node@v4
       with:
         node-version: 22
