@@ -38655,17 +38655,21 @@
     {
       "gamePk": 823440,
       "season": "2026",
-      "gameDate": "2026-07-16T23:10:00Z",
+      "gameDate": "2026-07-16T22:10:00Z",
       "officialDate": "2026-07-16",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Mets",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 32,
           "chartPos": 11
         },
         "home": {
           "team": "Phillies",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 32,
           "chartPos": 11
         }

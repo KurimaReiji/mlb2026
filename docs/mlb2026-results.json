@@ -11550,5 +11550,13 @@
     "home": "Padres",
     "score": "4 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 823440,
+    "date": "2026-07-16",
+    "road": "Mets",
+    "home": "Phillies",
+    "score": "4 - 1",
+    "status": "Final"
   }
 ]
