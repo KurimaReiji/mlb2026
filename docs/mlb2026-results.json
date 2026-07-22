@@ -12038,5 +12038,109 @@
     "home": "Angels",
     "score": "2 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 824409,
+    "date": "2026-07-21",
+    "road": "Twins",
+    "home": "Guardians",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823437,
+    "date": "2026-07-21",
+    "road": "Dodgers",
+    "home": "Phillies",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822787,
+    "date": "2026-07-21",
+    "road": "Rays",
+    "home": "Blue Jays",
+    "score": "12 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824895,
+    "date": "2026-07-21",
+    "road": "Padres",
+    "home": "Braves",
+    "score": "8 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824085,
+    "date": "2026-07-21",
+    "road": "Giants",
+    "home": "Royals",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823760,
+    "date": "2026-07-21",
+    "road": "Mets",
+    "home": "Brewers",
+    "score": "4 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824652,
+    "date": "2026-07-21",
+    "road": "Tigers",
+    "home": "Cubs",
+    "score": "2 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822871,
+    "date": "2026-07-21",
+    "road": "White Sox",
+    "home": "Rangers",
+    "score": "0 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824165,
+    "date": "2026-07-21",
+    "road": "Marlins",
+    "home": "Astros",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824329,
+    "date": "2026-07-21",
+    "road": "Nationals",
+    "home": "Rockies",
+    "score": "7 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824005,
+    "date": "2026-07-21",
+    "road": "Cardinals",
+    "home": "Angels",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 825056,
+    "date": "2026-07-21",
+    "road": "Athletics",
+    "home": "Diamondbacks",
+    "score": "5 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823114,
+    "date": "2026-07-21",
+    "road": "Reds",
+    "home": "Mariners",
+    "score": "4 - 2",
+    "status": "Final"
   }
 ]
