@@ -14526,5 +14526,77 @@
     "home": "Angels",
     "score": "2 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 824238,
+    "date": "2026-08-13",
+    "road": "Guardians",
+    "home": "Tigers",
+    "score": "0 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824561,
+    "date": "2026-08-13",
+    "road": "Reds",
+    "home": "White Sox",
+    "score": "9 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823829,
+    "date": "2026-08-13",
+    "road": "Pirates",
+    "home": "Marlins",
+    "score": "13 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823508,
+    "date": "2026-08-13",
+    "road": "Mariners",
+    "home": "Yankees",
+    "score": "1 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822776,
+    "date": "2026-08-13",
+    "road": "Red Sox",
+    "home": "Blue Jays",
+    "score": "7 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 822696,
+    "date": "2026-08-13",
+    "road": "Cubs",
+    "home": "Nationals",
+    "score": "0 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823669,
+    "date": "2026-08-13",
+    "road": "Phillies",
+    "home": "Twins",
+    "score": "7 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823995,
+    "date": "2026-08-13",
+    "road": "Rangers",
+    "home": "Angels",
+    "score": "0 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823915,
+    "date": "2026-08-13",
+    "road": "Brewers",
+    "home": "Dodgers",
+    "score": "5 - 4",
+    "status": "Final"
   }
 ]
