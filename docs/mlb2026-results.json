@@ -17438,5 +17438,125 @@
     "home": "Dodgers",
     "score": "2 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 824226,
+    "date": "2026-09-09",
+    "road": "Twins",
+    "home": "Tigers",
+    "score": "2 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824956,
+    "date": "2026-09-09",
+    "road": "Blue Jays",
+    "home": "Athletics",
+    "score": "0 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823172,
+    "date": "2026-09-09",
+    "road": "Cardinals",
+    "home": "Giants",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823251,
+    "date": "2026-09-09",
+    "road": "Nationals",
+    "home": "Padres",
+    "score": "2 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823090,
+    "date": "2026-09-09",
+    "road": "Rangers",
+    "home": "Mariners",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824791,
+    "date": "2026-09-09",
+    "road": "Guardians",
+    "home": "Orioles",
+    "score": "5 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823416,
+    "date": "2026-09-09",
+    "road": "Astros",
+    "home": "Phillies",
+    "score": "7 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823818,
+    "date": "2026-09-09",
+    "road": "Mets",
+    "home": "Marlins",
+    "score": "15 - 14",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824713,
+    "date": "2026-09-09",
+    "road": "Angels",
+    "home": "Red Sox",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823497,
+    "date": "2026-09-09",
+    "road": "Rockies",
+    "home": "Yankees",
+    "score": "1 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824871,
+    "date": "2026-09-09",
+    "road": "Rays",
+    "home": "Braves",
+    "score": "7 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824064,
+    "date": "2026-09-09",
+    "road": "Diamondbacks",
+    "home": "Royals",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824549,
+    "date": "2026-09-09",
+    "road": "Pirates",
+    "home": "White Sox",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823739,
+    "date": "2026-09-09",
+    "road": "Cubs",
+    "home": "Brewers",
+    "score": "6 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823900,
+    "date": "2026-09-09",
+    "road": "Reds",
+    "home": "Dodgers",
+    "score": "1 - 14",
+    "status": "Final"
   }
 ]
