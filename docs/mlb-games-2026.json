@@ -58390,15 +58390,19 @@
       "season": "2026",
       "gameDate": "2026-09-10T16:15:00Z",
       "officialDate": "2026-09-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rays",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 47,
           "chartPos": 47
         },
         "home": {
           "team": "Braves",
+          "score": 3,
+          "isWinner": true,
           "seriesNumber": 49,
           "chartPos": 51
         }
@@ -58412,15 +58416,19 @@
       "season": "2026",
       "gameDate": "2026-09-10T17:05:00Z",
       "officialDate": "2026-09-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Astros",
+          "score": 2,
+          "isWinner": true,
           "seriesNumber": 47,
           "chartPos": 51
         },
         "home": {
           "team": "Phillies",
+          "score": 1,
+          "isWinner": false,
           "seriesNumber": 47,
           "chartPos": 38
         }
@@ -58434,15 +58442,19 @@
       "season": "2026",
       "gameDate": "2026-09-10T20:10:00Z",
       "officialDate": "2026-09-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rangers",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 47,
           "chartPos": 36
         },
         "home": {
           "team": "Mariners",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 47,
           "chartPos": 36
         }
@@ -58456,15 +58468,19 @@
       "season": "2026",
       "gameDate": "2026-09-10T23:05:00Z",
       "officialDate": "2026-09-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Rockies",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 47,
           "chartPos": 50
         },
         "home": {
           "team": "Yankees",
+          "score": 10,
+          "isWinner": true,
           "seriesNumber": 47,
           "chartPos": 38
         }
@@ -58478,15 +58494,19 @@
       "season": "2026",
       "gameDate": "2026-09-10T23:40:00Z",
       "officialDate": "2026-09-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Pirates",
+          "score": 2,
+          "isWinner": true,
           "seriesNumber": 47,
           "chartPos": 42
         },
         "home": {
           "team": "White Sox",
+          "score": 0,
+          "isWinner": false,
           "seriesNumber": 48,
           "chartPos": 46
         }

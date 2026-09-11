@@ -17558,5 +17558,45 @@
     "home": "Dodgers",
     "score": "1 - 14",
     "status": "Final"
+  },
+  {
+    "gamePk": 824872,
+    "date": "2026-09-10",
+    "road": "Rays",
+    "home": "Braves",
+    "score": "1 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823413,
+    "date": "2026-09-10",
+    "road": "Astros",
+    "home": "Phillies",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823088,
+    "date": "2026-09-10",
+    "road": "Rangers",
+    "home": "Mariners",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823499,
+    "date": "2026-09-10",
+    "road": "Rockies",
+    "home": "Yankees",
+    "score": "3 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824550,
+    "date": "2026-09-10",
+    "road": "Pirates",
+    "home": "White Sox",
+    "score": "2 - 0",
+    "status": "Final"
   }
 ]
