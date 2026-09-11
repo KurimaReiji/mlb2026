@@ -312,7 +312,7 @@ const setup = ({ league, division, series, width, height, given }) => {
     params[prop] = getComputedStyle(shadow().querySelector("div")).getPropertyValue(`--${prop}`);
   });
 
-  const numGames = 2 + Math.max(...series.map(({ history }) => history.length)); // 162
+  const numGames = 162; //2 + Math.max(...series.map(({ history }) => history.length)); // 162
   const xDomain = [0, numGames];
   const xRange = [Number(params["padding-left"]), width - Number(params["padding-right"])];
 
