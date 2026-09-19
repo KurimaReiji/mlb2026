@@ -60979,15 +60979,19 @@
       "season": "2026",
       "gameDate": "2026-09-18T22:40:00Z",
       "officialDate": "2026-09-18",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Cubs",
+          "score": 4,
+          "isWinner": false,
           "seriesNumber": 51,
           "chartPos": 14
         },
         "home": {
           "team": "Reds",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 50,
           "chartPos": 14
         }
@@ -61001,15 +61005,19 @@
       "season": "2026",
       "gameDate": "2026-09-18T22:40:00Z",
       "officialDate": "2026-09-18",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Royals",
+          "score": 5,
+          "isWinner": false,
           "seriesNumber": 50,
           "chartPos": 45
         },
         "home": {
           "team": "Pirates",
+          "score": 8,
+          "isWinner": true,
           "seriesNumber": 50,
           "chartPos": 46
         }
@@ -61023,15 +61031,19 @@
       "season": "2026",
       "gameDate": "2026-09-18T23:05:00Z",
       "officialDate": "2026-09-18",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Brewers",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 50,
           "chartPos": 48
         },
         "home": {
           "team": "Orioles",
+          "score": 5,
+          "isWinner": false,
           "seriesNumber": 50,
           "chartPos": 44
         }
@@ -61045,15 +61057,19 @@
       "season": "2026",
       "gameDate": "2026-09-18T23:10:00Z",
       "officialDate": "2026-09-18",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Athletics",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 50,
           "chartPos": 14
         },
         "home": {
           "team": "Guardians",
+          "score": 5,
+          "isWinner": true,
           "seriesNumber": 50,
           "chartPos": 28
         }
@@ -61067,15 +61083,19 @@
       "season": "2026",
       "gameDate": "2026-09-18T23:10:00Z",
       "officialDate": "2026-09-18",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Red Sox",
+          "score": 4,
+          "isWinner": true,
           "seriesNumber": 50,
           "chartPos": 12
         },
         "home": {
           "team": "Rays",
+          "score": 2,
+          "isWinner": false,
           "seriesNumber": 50,
           "chartPos": 8
         }
@@ -61089,15 +61109,19 @@
       "season": "2026",
       "gameDate": "2026-09-18T23:15:00Z",
       "officialDate": "2026-09-18",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
           "team": "Phillies",
+          "score": 3,
+          "isWinner": false,
           "seriesNumber": 50,
           "chartPos": 12
         },
         "home": {
           "team": "Mets",
+          "score": 6,
+          "isWinner": true,
           "seriesNumber": 50,
           "chartPos": 12
         }
@@ -61111,6 +61135,240 @@
       "season": "2026",
       "gameDate": "2026-09-18T23:40:00Z",
       "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Tigers",
+          "score": 11,
+          "isWinner": true,
+          "seriesNumber": 50,
+          "chartPos": 14
+        },
+        "home": {
+          "team": "White Sox",
+          "score": 8,
+          "isWinner": false,
+          "seriesNumber": 51,
+          "chartPos": 18
+        }
+      },
+      "venue": "Rate Field",
+      "gamesInSeries": 4,
+      "seriesGameNumber": 2
+    },
+    {
+      "gamePk": 822847,
+      "season": "2026",
+      "gameDate": "2026-09-19T00:05:00Z",
+      "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Blue Jays",
+          "score": 1,
+          "isWinner": false,
+          "seriesNumber": 51,
+          "chartPos": 36
+        },
+        "home": {
+          "team": "Rangers",
+          "score": 7,
+          "isWinner": true,
+          "seriesNumber": 50,
+          "chartPos": 10
+        }
+      },
+      "venue": "Globe Life Field",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 824303,
+      "season": "2026",
+      "gameDate": "2026-09-19T00:10:00Z",
+      "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Mariners",
+          "score": 5,
+          "isWinner": true,
+          "seriesNumber": 50,
+          "chartPos": 38
+        },
+        "home": {
+          "team": "Rockies",
+          "score": 4,
+          "isWinner": false,
+          "seriesNumber": 50,
+          "chartPos": 41
+        }
+      },
+      "venue": "Coors Field",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 824138,
+      "season": "2026",
+      "gameDate": "2026-09-19T00:10:00Z",
+      "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Braves",
+          "score": 6,
+          "isWinner": true,
+          "seriesNumber": 52,
+          "chartPos": 38
+        },
+        "home": {
+          "team": "Astros",
+          "score": 2,
+          "isWinner": false,
+          "seriesNumber": 50,
+          "chartPos": 48
+        }
+      },
+      "venue": "Daikin Park",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 823005,
+      "season": "2026",
+      "gameDate": "2026-09-19T00:15:00Z",
+      "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Nationals",
+          "score": 9,
+          "isWinner": true,
+          "seriesNumber": 50,
+          "chartPos": 26
+        },
+        "home": {
+          "team": "Cardinals",
+          "score": 1,
+          "isWinner": false,
+          "seriesNumber": 51,
+          "chartPos": 10
+        }
+      },
+      "venue": "Busch Stadium",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 823977,
+      "season": "2026",
+      "gameDate": "2026-09-19T01:38:00Z",
+      "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Twins",
+          "score": 3,
+          "isWinner": true,
+          "seriesNumber": 50,
+          "chartPos": 32
+        },
+        "home": {
+          "team": "Angels",
+          "score": 0,
+          "isWinner": false,
+          "seriesNumber": 50,
+          "chartPos": 20
+        }
+      },
+      "venue": "Angel Stadium",
+      "gamesInSeries": 4,
+      "seriesGameNumber": 2
+    },
+    {
+      "gamePk": 823252,
+      "season": "2026",
+      "gameDate": "2026-09-19T01:40:00Z",
+      "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Marlins",
+          "score": 2,
+          "isWinner": false,
+          "seriesNumber": 50,
+          "chartPos": 34
+        },
+        "home": {
+          "team": "Padres",
+          "score": 8,
+          "isWinner": true,
+          "seriesNumber": 50,
+          "chartPos": 4
+        }
+      },
+      "venue": "Petco Park",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 825032,
+      "season": "2026",
+      "gameDate": "2026-09-19T01:40:00Z",
+      "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Yankees",
+          "score": 9,
+          "isWinner": true,
+          "seriesNumber": 50,
+          "chartPos": 37
+        },
+        "home": {
+          "team": "Diamondbacks",
+          "score": 2,
+          "isWinner": false,
+          "seriesNumber": 51,
+          "chartPos": 50
+        }
+      },
+      "venue": "Chase Field",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 823898,
+      "season": "2026",
+      "gameDate": "2026-09-19T02:15:00Z",
+      "officialDate": "2026-09-18",
+      "status": "Final",
+      "teams": {
+        "away": {
+          "team": "Giants",
+          "score": 2,
+          "isWinner": false,
+          "seriesNumber": 51,
+          "chartPos": 31
+        },
+        "home": {
+          "team": "Dodgers",
+          "score": 8,
+          "isWinner": true,
+          "seriesNumber": 50,
+          "chartPos": 35
+        }
+      },
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 824545,
+      "season": "2026",
+      "gameDate": "2026-09-19T18:10:00Z",
+      "officialDate": "2026-09-19",
       "status": "Scheduled",
       "teams": {
         "away": {
@@ -61126,183 +61384,7 @@
       },
       "venue": "Rate Field",
       "gamesInSeries": 4,
-      "seriesGameNumber": 2
-    },
-    {
-      "gamePk": 822847,
-      "season": "2026",
-      "gameDate": "2026-09-19T00:05:00Z",
-      "officialDate": "2026-09-18",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Blue Jays",
-          "seriesNumber": 51,
-          "chartPos": 36
-        },
-        "home": {
-          "team": "Rangers",
-          "seriesNumber": 50,
-          "chartPos": 10
-        }
-      },
-      "venue": "Globe Life Field",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
-      "gamePk": 824303,
-      "season": "2026",
-      "gameDate": "2026-09-19T00:10:00Z",
-      "officialDate": "2026-09-18",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Mariners",
-          "seriesNumber": 50,
-          "chartPos": 38
-        },
-        "home": {
-          "team": "Rockies",
-          "seriesNumber": 50,
-          "chartPos": 41
-        }
-      },
-      "venue": "Coors Field",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
-      "gamePk": 824138,
-      "season": "2026",
-      "gameDate": "2026-09-19T00:10:00Z",
-      "officialDate": "2026-09-18",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Braves",
-          "seriesNumber": 52,
-          "chartPos": 38
-        },
-        "home": {
-          "team": "Astros",
-          "seriesNumber": 50,
-          "chartPos": 48
-        }
-      },
-      "venue": "Daikin Park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
-      "gamePk": 823005,
-      "season": "2026",
-      "gameDate": "2026-09-19T00:15:00Z",
-      "officialDate": "2026-09-18",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Nationals",
-          "seriesNumber": 50,
-          "chartPos": 26
-        },
-        "home": {
-          "team": "Cardinals",
-          "seriesNumber": 51,
-          "chartPos": 10
-        }
-      },
-      "venue": "Busch Stadium",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
-      "gamePk": 823977,
-      "season": "2026",
-      "gameDate": "2026-09-19T01:38:00Z",
-      "officialDate": "2026-09-18",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Twins",
-          "seriesNumber": 50,
-          "chartPos": 32
-        },
-        "home": {
-          "team": "Angels",
-          "seriesNumber": 50,
-          "chartPos": 20
-        }
-      },
-      "venue": "Angel Stadium",
-      "gamesInSeries": 4,
-      "seriesGameNumber": 2
-    },
-    {
-      "gamePk": 823252,
-      "season": "2026",
-      "gameDate": "2026-09-19T01:40:00Z",
-      "officialDate": "2026-09-18",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Marlins",
-          "seriesNumber": 50,
-          "chartPos": 34
-        },
-        "home": {
-          "team": "Padres",
-          "seriesNumber": 50,
-          "chartPos": 4
-        }
-      },
-      "venue": "Petco Park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
-      "gamePk": 825032,
-      "season": "2026",
-      "gameDate": "2026-09-19T01:40:00Z",
-      "officialDate": "2026-09-18",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Yankees",
-          "seriesNumber": 50,
-          "chartPos": 37
-        },
-        "home": {
-          "team": "Diamondbacks",
-          "seriesNumber": 51,
-          "chartPos": 50
-        }
-      },
-      "venue": "Chase Field",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
-      "gamePk": 823898,
-      "season": "2026",
-      "gameDate": "2026-09-19T02:15:00Z",
-      "officialDate": "2026-09-18",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Giants",
-          "seriesNumber": 51,
-          "chartPos": 31
-        },
-        "home": {
-          "team": "Dodgers",
-          "seriesNumber": 50,
-          "chartPos": 35
-        }
-      },
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
+      "seriesGameNumber": 3
     },
     {
       "gamePk": 824788,
@@ -61479,28 +61561,6 @@
       "venue": "Daikin Park",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
-    },
-    {
-      "gamePk": 824545,
-      "season": "2026",
-      "gameDate": "2026-09-19T23:10:00Z",
-      "officialDate": "2026-09-19",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Tigers",
-          "seriesNumber": 50,
-          "chartPos": 14
-        },
-        "home": {
-          "team": "White Sox",
-          "seriesNumber": 51,
-          "chartPos": 18
-        }
-      },
-      "venue": "Rate Field",
-      "gamesInSeries": 4,
-      "seriesGameNumber": 3
     },
     {
       "gamePk": 823003,
@@ -62051,6 +62111,7 @@
       "venue": "Yankee Stadium",
       "gameNumber": 1,
       "doubleHeader": "S",
+      "description": "Makeup of 5/23 PPD",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
