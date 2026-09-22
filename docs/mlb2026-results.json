@@ -18710,5 +18710,29 @@
     "home": "Orioles",
     "score": "3 - 0",
     "status": "Final"
+  },
+  {
+    "gamePk": 824787,
+    "date": "2026-09-21",
+    "road": "Blue Jays",
+    "home": "Orioles",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 824221,
+    "date": "2026-09-21",
+    "road": "Nationals",
+    "home": "Tigers",
+    "score": "2 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 823169,
+    "date": "2026-09-21",
+    "road": "Twins",
+    "home": "Giants",
+    "score": "2 - 5",
+    "status": "Final"
   }
 ]
