@@ -23,6 +23,14 @@ Click on each dot to display the series details.
 - [Guardians](https://kurimareiji.github.io/mlb2026/h2h.html?season=2026&team=Guardians)
 - [Mariners](https://kurimareiji.github.io/mlb2026/h2h.html?season=2026&team=Mariners)
 
+## The Best Record in Baseball
+
+- [The Best Record in Baseball](https://kurimareiji.github.io/mlb2026/bestRecord.html)
+
+## Division vs Division
+
+- [Division vs Division](https://kurimareiji.github.io/mlb2026/divVSdiv.html)
+
 ## Related Works
 
 - [mlb2025](https://github.com/KurimaReiji/mlb2025)
